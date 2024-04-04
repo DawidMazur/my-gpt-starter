@@ -5,3 +5,7 @@ Dowiedz się, jak wykorzystać API OpenAI do tworzenia interaktywnego interfejsu
 Technologie: React, Typescript, React Router, Ant Design, Tailwind CSS
 
 Czas trwania: 1 - 1,5 godziny
+
+# Pamiętajcie stworzyć plik: .env.local z zmiennymi :
+VITE_OPENAI_API_KEY=
+VITE_OPENAI_API_URL="https://api.openai.com/v1/chat/completions"
